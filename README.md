@@ -169,7 +169,7 @@ assets/                     # Application resources
 
 ## 📄 License & Distribution
 
-**Free for Religious Use** - Kingdom Connect is provided free of charge for religious institutions and church management purposes.
+**Free for Christian Use** - Kingdom Connect is provided free of charge for religious institutions and church management purposes.
 
 ### **Distribution Rights**
 - ✅ Free download and use for churches
@@ -181,7 +181,7 @@ assets/                     # Application resources
 
 <div align="center">
 
-  **Built with ❤️ for Religious Communities**
+  **Built with ❤️ for Christ Communities**
 
   *Powered by .NET 8 • WPF • FastReport*
 
