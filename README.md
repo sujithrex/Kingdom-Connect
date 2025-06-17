@@ -1,7 +1,7 @@
 # Kingdom Connect
 
 <div align="center">
-  <img src="kingdomConnect/kingdomConnect/assets/logo.png" alt="Kingdom Connect Logo" width="120" height="120">
+  <img src="logo.png" alt="Kingdom Connect Logo" width="120" height="120">
 
   **Professional Church Management System**
 
@@ -9,7 +9,7 @@
   [![Platform](https://img.shields.io/badge/platform-Windows-blue.svg)](https://github.com/sujithrex/kingdomConnect)
   [![.NET](https://img.shields.io/badge/.NET-8.0-purple.svg)](https://dotnet.microsoft.com/)
 
-  **🚀 [Download Latest Release](https://github.com/sujithrex/kingdomConnect/releases)**
+  **🚀 [Download Latest Release](#-installation)**
 </div>
 
 ---
@@ -51,10 +51,10 @@ Empower churches with professional-grade management tools for efficient ministry
 ### **Quick Installation (No Setup Required)**
 
 1. **Download Release**
-   - Visit: [GitHub Releases](https://github.com/sujithrex/kingdomConnect/releases)
-   - Choose your system architecture
+   - **64-bit (win-x64)**: [Download for Windows 64-bit](http://static.rexmi.in/kingdom-connect/win-x64.exe)
+   - **32-bit (win-x86)**: [Download for Windows 32-bit](http://static.rexmi.in/kingdom-connect/win-x86.exe)
 
-2. **System Architecture Options**
+2. **System Architecture Guide**
    - **64-bit (win-x64)**: For Windows 10/11 modern systems
    - **32-bit (win-x86)**: For older systems and universal compatibility
 
@@ -181,7 +181,7 @@ assets/                     # Application resources
 
 <div align="center">
 
-  **Built with ❤️ for Christ Communities**
+  **Built with ❤️ for Religious Communities**
 
   *Powered by .NET 8 • WPF • FastReport*
 
