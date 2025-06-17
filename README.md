@@ -3,7 +3,7 @@
 <div align="center">
   <img src="logo_withtext.png" alt="Kingdom Connect Logo" width="120" height="120">
 
-  **Professional Church Management System**
+  **Church Management System**
 
   [![Version](https://img.shields.io/badge/version-1.0%20Beta-orange.svg)](https://github.com/sujithrex/kingdomConnect)
   [![Platform](https://img.shields.io/badge/platform-Windows-blue.svg)](https://github.com/sujithrex/kingdomConnect)
