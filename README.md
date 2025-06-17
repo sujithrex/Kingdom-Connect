@@ -1,7 +1,7 @@
 # Kingdom Connect
 
 <div align="center">
-  <img src="logo.png" alt="Kingdom Connect Logo" width="120" height="120">
+  <img src="logo_withtext.png" alt="Kingdom Connect Logo" width="120" height="120">
 
   **Professional Church Management System**
 
