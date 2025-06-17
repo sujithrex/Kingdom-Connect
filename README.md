@@ -14,38 +14,6 @@
 
 ---
 
-## 📋 About
-
-Kingdom Connect is a comprehensive church management system built with **.NET 8** and **WPF** technology. Designed specifically for religious institutions to streamline administrative tasks, financial reporting, and congregational management.
-
-### 🎯 Key Purpose
-Empower churches with professional-grade management tools for efficient ministry administration.
-
----
-
-## ✨ Core Features
-
-### 📊 **Financial Management**
-- **Revised Budget Reports** - Professional budget planning and tracking
-- **Financial Analytics** - Comprehensive financial reporting with PDF export
-
-### 🏫 **Educational Administration**
-- **School Returns Management** - Complete educational data tracking
-- **Primary School Records** - Specialized primary education management
-- **Student Analytics** - Detailed educational statistics and reporting
-
-### ⛪ **Congregational Management**
-- **Congregation Returns** - Member data and attendance tracking
-- **Membership Analytics** - Growth insights and congregational statistics
-
-### 🖥️ **Modern Interface**
-- **Real-time Dashboard** - Card-based home screen with live clock
-- **Professional Reports** - High-quality PDF generation using FastReport
-- **Responsive Design** - Optimized for various screen resolutions
-- **Custom Branding** - Professional appearance with custom application icons
-
----
-
 ## � Installation
 
 ### **Quick Installation (No Setup Required)**
