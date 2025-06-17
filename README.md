@@ -181,7 +181,7 @@ assets/                     # Application resources
 
 <div align="center">
 
-  **Built with ❤️ for Religious Communities**
+  **Built with ❤️ for Christ Communities**
 
   *Powered by .NET 8 • WPF • FastReport*
 
